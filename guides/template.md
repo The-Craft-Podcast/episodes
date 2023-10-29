@@ -11,7 +11,7 @@ These notes are to guide the conversation. We’ll focus on these topic areas an
 
 ### Welcome :00 - :05
 
-- [HOST] Welcome to The Craft podcast, where we interview experts in various fields to learn about their disciplines and how they strive towards mastery. We love talking to people who are passionate enough to master something. We have each been asking curious questions of these craftspeople our whole lives, and want to share those conversations with others. Let’s get right into it.
+[HOST] Welcome to The Craft podcast, where we interview experts in various fields to learn about their disciplines and how they strive towards mastery. We love talking to people who are passionate enough to master something. We have each been asking curious questions of these craftspeople our whole lives, and want to share those conversations with others. Let’s get right into it.
 
 [HOST] – {INTERVIEWEE_BIO}
 
@@ -23,9 +23,11 @@ These notes are to guide the conversation. We’ll focus on these topic areas an
 
 ### Wrap Up -- :50 - 1:00
 
-We've covered so much in this interview. What else would you like to share or what key takeaways would you highlight for our listeners? _How should folks follow you to hear about what you’re up to?_
+- We've covered so much in this interview. What else would you like to share or what key takeaways would you highlight for our listeners? _How should folks follow you to hear about what you’re up to?_
 
-Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The Craft. Thank you for listening to The Craft podcast. For more links and information about this episode, or to listen to more episodes you can search for The Craft Podcast by Daniel Tedesco and Michael Du on YouTube or anywhere you get your podcasts. See you next time and–until then–keep crafting.
+[HOST] Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The Craft. Our guest today has been Kevin Xu. Kevin, thanks for being part of The Craft. 
+
+[HOST] Thank you for listening to The Craft podcast. If you like our interviews, please, please subscribe and give us a thumbs up. That's the best way to tell the platforms that we're making good content. For more links and information about this episode, or to listen to more episodes you can search for The Craft Podcast by Daniel Tedesco and Michael Du on YouTube or anywhere you get your podcasts. See you next time and–until then–keep crafting.
 
 ## Thumbnail for YouTube
 
@@ -34,3 +36,9 @@ Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The
 ## Meeting Logistics
 
 ## Draft Social Media Posts
+
+### Twitter
+
+### LinkedIn
+
+## Background
