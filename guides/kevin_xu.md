@@ -1,8 +1,9 @@
 ---
-title: Interview Brief
+title: Kevin Xu -- Curiosity, tech & geopolitics, and the art of crafting newsletters
 interviewee: Kevin Xu
 interview-date: 2023-10-29
-status: planned
+status: completed
+youtube-link: https://www.youtube.com/watch?v=f-tIX2Ea4Go
 ---
 
 ## Short Summary
