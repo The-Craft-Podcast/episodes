@@ -41,7 +41,7 @@ Today, we're joined by Umar Jamil. Umar is a software developer, AI engineer, en
 
 We've covered so much in this interview. What else would you like to share or what key takeaways would you highlight for our listeners? _How should folks follow you to hear about what you’re up to?_
 
-Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The Craft. Thank you for listening to The Craft podcast. For more links and information about this episode, or to listen to more episodes you can search for The Craft Podcast by Daniel Tedesco and Michael Du on YouTube or anywhere you get your podcasts. See you next time and–until then–keep crafting.
+Our guest today has been Umar Jamil. Umar, thanks for being part of The Craft. Thank you for listening to The Craft podcast. For more links and information about this episode, or to listen to more episodes you can search for The Craft Podcast by Daniel Tedesco and Michael Du on YouTube or anywhere you get your podcasts. See you next time and–until then–keep crafting.
 
 ## Thumbnail for YouTube
 
@@ -95,11 +95,16 @@ Find your local number: <https://us06web.zoom.us/u/kdpaeuYHjX>
 
 🚀 Excited to sit down with Umar Jamil (@hkproj) for an upcoming episode of The Craft podcast! We'll explore his journey from teenage coding prodigy to AI YouTube educator. Get ready for some deep insights on mastering technology. 🧠 Episode drops Nov 8th. #TechPodcast #AI #Innovations 
 
-🔜 https://www.youtube.com/@thecraftpodcast
+🔜 <https://www.youtube.com/@thecraftpodcast>
 
 ### LinkedIn
 
-{LINKEDIN_PRE_SHOW_DRAFT}
+Looking forward to interviewing Umar Jamil, a trailblazer in AI and machine learning, for The Craft podcast. We will be discussing his remarkable path from a young software developer to becoming an influential voice in AI education. Join us on Nov 8th for a deep dive into his personal and professional growth in the tech world.
+
+📆 Save the date: Nov 8th
+🎙️ Anticipate the conversation: <https://www.youtube.com/@thecraftpodcast>
+
+#TheCraftPodcast #MachineLearning #TechEducation #FutureOfAI #Leadership
 
 ## Draft Post-Show Social Media Posts
 
