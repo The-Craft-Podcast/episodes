@@ -12,28 +12,27 @@ These notes are to guide the conversation. We’ll focus on these topic areas an
 
 ### Welcome :00 - :05
 
-[HOST] Welcome to The Craft podcast, where we interview experts in various fields to learn about their disciplines and how they strive towards mastery. We love talking to people who are passionate enough to master something. We have each been asking curious questions of these craftspeople our whole lives, and want to share those conversations with others. Let’s get right into it.
+[Daniel] Welcome to The Craft podcast, where we interview experts in various fields to learn about their disciplines and how they strive towards mastery. We love talking to people who are passionate enough to master something. We have each been asking curious questions of these craftspeople our whole lives, and want to share those conversations with others. Let’s get right into it.
 
-[HOST] – {INTERVIEWEE_BIO}
+Today, we're joined by Umar Jamil. Umar is a software developer, AI engineer, entrepreneur, and a burgeoning YouTube creator. Growing up in a bustling Pakistani household in Italy and now based in China, Umar is uniquely multicultural, fluent in Italian, English, Urdu, and proficient in Mandarin. With a depth of software development, open source, and content creation experience, Umar has become one of the top machine learning educators on YouTube, breaking down the technical details of famous AI models, like LLama and Stable Diffusion. With is broad range of interests and experiences, Umar is a great example of a modern master. Umar, welcome to The Craft.
 
-software developer, AI engineer, and entrepreneur, and burgeoning YouTube creator.
-Growing up in a bustling household in Italy and now based in China, Umar is a multilingual professional, fluent in Italian, English, and Urdu with working proficiency in Mandarin. With experience as a Developer Advocate and a history of advocacy for open-source platforms, Umar is set to graduate in 25 days and has recently celebrated his first sponsorship as a YouTube content creator in the tech space.
+### Learning & Building [Daniel] -- :05 - :20
 
-Going from no machine learning expertise, to getting a masters degree in the topic and becoming one of the leading voices on YouTube, teaching thousands around the world how popular AI models work under the hood.
+- How and why, at 14 years old, did you become one of the youngest certified Microsoft developers in the world?
+- How did family shape your values and interests growing up?
+- Did you have any interest in China before coming here? How did you decide to make that move?
 
-### Learning & Building -- :05 - :20
+### Machine Learning & AI [Michael] -- :20 - :35
 
-- You're an extremely curious person, starting from 
+- What are your study habits when learning a new field, whether its Mandarin or machine learning?
+- It's not easy breaking into a new field. Have you had any pitfalls or challenges getting into machine learning?
 
-### Machine Learning & AI -- :20 - :35
+### Making Tutorials [Michael] -- :35 - :50
 
-{TOPIC_2_QUESTIONS}
+- Why did you decide to start making videos?
+- What's your process for making a video? Deciding on topics, preparation, recording, editing, publishing, etc.
 
-### Making Tutorials -- :35 - :50
-
-{TOPIC_3_QUESTIONS}
-
-### Wrap Up -- :50 - 1:00
+### Wrap Up [Daniel] -- :50 - 1:00
 
 We've covered so much in this interview. What else would you like to share or what key takeaways would you highlight for our listeners? _How should folks follow you to hear about what you’re up to?_
 

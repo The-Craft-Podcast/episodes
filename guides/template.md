@@ -18,9 +18,15 @@ These notes are to guide the conversation. We’ll focus on these topic areas an
 
 ### Topic 1 -- :05 - :20
 
+{TOPIC_1_QUESTIONS}
+
 ### Topic 2 -- :20 - :35
 
+{TOPIC_2_QUESTIONS}
+
 ### Topic 3 -- :35 - :50
+
+{TOPIC_3_QUESTIONS}
 
 ### Wrap Up -- :50 - 1:00
 
@@ -30,7 +36,7 @@ Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The
 
 ## Thumbnail for YouTube
 
-![{FULL_NAME_UNDERCORE} Thumbnail](./thumbnails/{FULL_NAME_UNDERSCORE}.jpg)
+![{FULL_NAME} Thumbnail](./thumbnails/{FULL_NAME_UNDERSCORES}.jpg)
 
 ## Meeting Logistics
 
