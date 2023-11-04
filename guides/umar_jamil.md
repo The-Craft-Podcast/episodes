@@ -1,9 +1,14 @@
 ---
 title: {VIDEO_TITLE}
-youtube-link: {YOUTUBE_URL}
+youtube-url: {YOUTUBE_URL}
 interviewee: Umar Jamil
 interview-date: 2023-11-08
 status: planned
+linkedin-pre-show-url: https://www.linkedin.com/feed/update/urn:li:activity:7126471106172968960/
+linkedin-post-show-url: {LINKEDIN_POST_SHOW_URL}
+twitter-pre-show-url: https://twitter.com/dtedesco1/status/1720695643826491619
+twitter-post-show-url: {TWITTER_POST_SHOW_URL}
+
 ---
 
 These notes are to guide the conversation. We’ll focus on these topic areas and prioritize the _italicized questions_, but we won’t ask each question like a Q&A. We’ll have a human conversation and skip or go deep based on (1) our own curiosity, (2) whatever you would like to share, and (3) our time limitations.
@@ -84,15 +89,27 @@ Meeting ID: 825 5309 1439
 
 Find your local number: <https://us06web.zoom.us/u/kdpaeuYHjX>
 
-## Draft Social Media Posts
+## Draft Pre-Show Social Media Posts
 
 ### Twitter
 
-{TWITTER_DRAFT}
+🚀 Excited to sit down with Umar Jamil (@hkproj) for an upcoming episode of The Craft podcast! We'll explore his journey from teenage coding prodigy to AI YouTube educator. Get ready for some deep insights on mastering technology. 🧠 Episode drops Nov 8th. #TechPodcast #AI #Innovations 
+
+🔜 https://www.youtube.com/@thecraftpodcast
 
 ### LinkedIn
 
-{LINKEDIN_DRAFT}
+{LINKEDIN_PRE_SHOW_DRAFT}
+
+## Draft Post-Show Social Media Posts
+
+### Twitter
+
+{TWITTER_POST_SHOW_DRAFT}
+
+### LinkedIn
+
+{LINKEDIN_POST_SHOW_DRAFT}
 
 ## Background
 

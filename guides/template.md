@@ -1,9 +1,13 @@
 ---
 title: {VIDEO_TITLE}
-youtube-link: {YOUTUBE_URL}
+youtube-url: {YOUTUBE_URL}
 interviewee: {FULL_NAME}
 interview-date: {DATE}
 status: planned
+linkedin-pre-show-url: {LINKEDIN_PRE_SHOW_URL}
+linkedin-post-show-url: {LINKEDIN_POST_SHOW_URL}
+twitter-pre-show-url: {TWITTER_PRE_SHOW_URL}
+twitter-post-show-url: {TWITTER_POST_SHOW_URL}
 ---
 
 These notes are to guide the conversation. We’ll focus on these topic areas and prioritize the _italicized questions_, but we won’t ask each question like a Q&A. We’ll have a human conversation and skip or go deep based on (1) our own curiosity, (2) whatever you would like to share, and (3) our time limitations.
@@ -42,15 +46,25 @@ Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The
 
 {MEETING_LOGISTICS}
 
-## Draft Social Media Posts
+## Draft Pre-Show Social Media Posts
 
 ### Twitter
 
-{TWITTER_DRAFT}
+{TWITTER_PRE_SHOW_DRAFT}
 
 ### LinkedIn
 
-{LINKEDIN_DRAFT}
+{LINKEDIN_PRE_SHOW_DRAFT}
+
+## Draft Post-Show Social Media Posts
+
+### Twitter
+
+{TWITTER_POST_SHOW_DRAFT}
+
+### LinkedIn
+
+{LINKEDIN_POST_SHOW_DRAFT}
 
 ## Background
 
