@@ -5,9 +5,28 @@ interview-date: 2023-10-29
 status: planned
 ---
 
-These notes are to guide the conversation. We’ll focus on these topic areas and prioritize the _italicized questions_, but we won’t ask each question like a Q&A. We’ll have a human conversation and skip or go deep based on (1) our own curiosity, (2) whatever you would like to share, and (3) our time limitations.
+## Short Summary
+
+Kevin Xu, technology strategist, investor, and founder of the newsletter Interconnected, joins The Craft Podcast. Kevin shares his diverse career background spanning open-source technology, politics, and his time at the White House, GitHub, PingCAP. We explore how he cultivates his curiosity and drive for continuous exploration, covering everything from career transitions, embracing challenges, how his newsletter Interconnected was born, his plans for Interconnected 2.0, and his thoughts on the role of AI in content creation.
+
+## Summary
+
+Kevin Xu, founder of Interconnected and a technology strategist and investor, reflects on his career journey in the Craft Podcast. Brought up mainly by a single mother, Kevin's freedom to learn nurtured his learning passion. He worked in renowned institutions like GitHub, Pink Hat, and the White House and transitioned between politics and the tech industry, driven by curiosity and the thrill of challenging himself in new fields. Inspired by the TV show "The West Wing" and Obama's presidential campaign, Kevin initially pursued a career in politics, before switching over to the booming tech industry. Stanford law school sparked his interest in technology where he learned to code. He later founded a newsletter focusing on the intersection of technology, business, and geopolitics, reflecting his unique background. Kevin's rich experiences, fuelled by his voracious reading habits, allow him to consistently generate fresh content for his newsletter. Career lows include a stint as a chatbot company founder, where technical challenges and his self-acknowledged lack of focus led to a painful exit. Kevin also discussed plans for a paid version of his interconnected newsletter, his investment partnership, and the limitless potential of public market investing. The speakers also debate the balance between natural abilities and honed skills in shaping one's career. Finally, the potential of AI in content creation, the process of writing, and Kevin's future content plans were discussed. Despite pondering a podcast, Kevin considers writing as a practice that amplifies his strength.
+
+## Chapters
+
+0.00 Introduction and Background
+3:50 Switching Careers and Life as a Game
+11:30 Implementing Skills in Different Fields
+16:50 Education and Starting a Newsletter
+21:50 Connections in China and Tech
+26:30 Interconnected 2.0
+32:00 Failing and Recovering
+42:00 AI in Writing and Podcasts
 
 ## Conversation Guide
+
+These notes are to guide the conversation. We’ll focus on these topic areas and prioritize the _italicized questions_, but we won’t ask each question like a Q&A. We’ll have a human conversation and skip or go deep based on (1) our own curiosity, (2) whatever you would like to share, and (3) our time limitations.
 
 ### Welcome :00 - :05
 
