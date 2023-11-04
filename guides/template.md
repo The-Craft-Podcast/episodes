@@ -30,14 +30,22 @@ Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The
 
 ## Thumbnail for YouTube
 
-![INSERT IMAGE HERE](./thumbnails/{FULL_NAME_UNDERSCORE}.jpg)
+![{FULL_NAME_UNDERCORE} Thumbnail](./thumbnails/{FULL_NAME_UNDERSCORE}.jpg)
 
 ## Meeting Logistics
+
+{MEETING_LOGISTICS}
 
 ## Draft Social Media Posts
 
 ### Twitter
 
+{TWITTER_DRAFT}
+
 ### LinkedIn
 
+{LINKEDIN_DRAFT}
+
 ## Background
+
+{INTERVIEWEE_BACKGROUND_MATERIALS}
