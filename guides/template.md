@@ -1,5 +1,6 @@
 ---
-title: Interview Brief
+title: {VIDEO_TITLE}
+youtube-link: {YOUTUBE_URL}
 interviewee: {FULL_NAME}
 interview-date: {DATE}
 status: planned
@@ -11,7 +12,7 @@ These notes are to guide the conversation. We’ll focus on these topic areas an
 
 ### Welcome :00 - :05
 
-- [HOST] Welcome to The Craft podcast, where we interview experts in various fields to learn about their disciplines and how they strive towards mastery. We love talking to people who are passionate enough to master something. We have each been asking curious questions of these craftspeople our whole lives, and want to share those conversations with others. Let’s get right into it.
+[HOST] Welcome to The Craft podcast, where we interview experts in various fields to learn about their disciplines and how they strive towards mastery. We love talking to people who are passionate enough to master something. We have each been asking curious questions of these craftspeople our whole lives, and want to share those conversations with others. Let’s get right into it.
 
 [HOST] – {INTERVIEWEE_BIO}
 
@@ -34,5 +35,9 @@ Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The
 ## Meeting Logistics
 
 ## Draft Social Media Posts
+
+### Twitter
+
+### LinkedIn
 
 ## Background
