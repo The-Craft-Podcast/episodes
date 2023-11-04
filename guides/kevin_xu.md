@@ -108,7 +108,7 @@ Meeting ID: 869 0866 2336
 
 ### Twitter
 
-🎙 Excited to welcome another polymath guest Kevin Xu (@kevinsxu) to The Craft podcast! Dive into the intersections of tech, business, geopolitics, and US-Asia relations. From his experiences at GitHub to the Obama White House, Kevin has a lot to share. Tune in on YouTube or wherever you get your podcasts. https://www.youtube.com/@thecraftpodcast
+🎙 Excited to welcome another polymath guest Kevin Xu (@kevinsxu) to The Craft podcast! Dive into the intersections of tech, business, geopolitics, and US-Asia relations. From his experiences at GitHub to the Obama White House, Kevin has a lot to share. Tune in on YouTube or wherever you get your podcasts. <https://www.youtube.com/@thecraftpodcast>
 
 ### LinkedIn
 
@@ -116,7 +116,7 @@ I'm thrilled to announce our next guest on The Craft podcast, Kevin Xu. Kevin is
 
 Our conversation will explore how he's mastered the variety of crafts he takes on. Whether you're interested in open-source technology, AI, or the dynamics of the China tech scene, this episode promises deep insights and engaging discussion.
 
-Join us on Sunday October 29, 2023. Listen to The Craft Podcast by Daniel Tedesco and Michael Du on on YouTube or wherever you get your podcasts. https://www.youtube.com/@thecraftpodcast
+Join us on Sunday October 29, 2023. Listen to The Craft Podcast by Daniel Tedesco and Michael Du on on YouTube or wherever you get your podcasts. <https://www.youtube.com/@thecraftpodcast>
 
 ## Background
 
@@ -171,16 +171,16 @@ Founder, Investor, Author
 February 2020 - Present (3 years 9 months)
 Internet's only bilingual newsletter on the intersections of tech, business,
 investing, geopolitics, and US-Asia relations.
-Subscribe: https://interconnected.blog/#/portal/signup
-Substack edition: https://interconnect.substack.com
+Subscribe: <https://interconnected.blog/#/portal/signup>
+Substack edition: <https://interconnect.substack.com>
 Harmonic
 Advisor
 February 2020 - Present (3 years 9 months)
-https://harmonic.ai/
+<https://harmonic.ai/>
 Athens Research
 Investor
 April 2021 - Present (2 years 7 months)
-https://github.com/athensresearch/athens
+<https://github.com/athensresearch/athens>
 SigNoz (YC W21)
 Investor
 February 2021 - Present (2 years 9 months)
@@ -189,7 +189,7 @@ GitHub
 2 years 3 months
 Senior Director, Global Expansion & Partnerships
 September 2021 - July 2023 (1 year 11 months)
-Help GitHub become the home for *all* developers, via market expansion
+Help GitHub become the home for all developers, via market expansion
 strategy and technical partnerships
 Senior Director, International Expansion Strategy
 May 2021 - September 2021 (5 months)
@@ -203,21 +203,15 @@ PingCAP
 General Manager of Global (US and EU) Strategy and Operations
 October 2017 - July 2019 (1 year 10 months)
 San Mateo, CA
-- Product managed first version of fully managed database-as-a-service
-offering on GCP's Google Kubernetes Engine (GKE)
-- Written for or spoken at trade publications, meetups, industry podcasts, and
-conferences to execute product marketing campaign and technical education
-- Hired and managed a remote team of 10-plus developers, product managers,
-customer success engineers, and contractors, spanning the U.S., Canada, and
-New Zealand
-- Established quarterly and yearly team-wide and individual OKR development
-and review process
-- Conducted sales meetings and product demos to inbound leads, industry
-partners, foundations
-- Provided level 1 support to existing users of the core open source NewSQL
-HTAP database project, TiDB
-- Shepherded TiKV, a cloud-native key-value database, through the Cloud
-Native Computing Foundation technical review process to Incubating Level
+
+- Product managed first version of fully managed database-as-a-service offering on GCP's Google Kubernetes Engine (GKE)
+- Written for or spoken at trade publications, meetups, industry podcasts, and conferences to execute product marketing campaign and technical education
+- Hired and managed a remote team of 10-plus developers, product managers, customer success engineers, and contractors, spanning the U.S., Canada, and New Zealand
+- Established quarterly and yearly team-wide and individual OKR development and review process
+- Conducted sales meetings and product demos to inbound leads, industry partners, foundations
+- Provided level 1 support to existing users of the core open source NewSQL HTAP database project, TiDB
+- Shepherded TiKV, a cloud-native key-value database, through the Cloud Native Computing Foundation technical review process to Incubating Level
+
 Kyligence
 Consultant -- Go To Market
 Page 2 of 5
