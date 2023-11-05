@@ -45,7 +45,7 @@ Our guest today has been Umar Jamil. Umar, thanks for being part of The Craft. T
 
 ## Thumbnail for YouTube
 
-![INSERT IMAGE HERE](./thumbnails/{FULL_NAME_UNDERSCORE}.jpg)
+![YouTube Thumbnail](../media/thumbnails/umar_jamil_thumbnail.png)
 
 ## Meeting Logistics
 
