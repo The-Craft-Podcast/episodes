@@ -29,12 +29,14 @@ Today, we're joined by Umar Jamil. Umar is a software developer, AI engineer, en
 
 ### Machine Learning & AI [Michael] -- :20 - :35
 
+- What brought you to the field of ML/AI at the begining when you were in college, and why you are passionate about it?
 - What are your study habits when learning a new field, whether its Mandarin or machine learning?
 - It's not easy breaking into a new field. Have you had any pitfalls or challenges getting into machine learning?
 
 ### Making Tutorials [Michael] -- :35 - :50
 
 - Why did you decide to start making videos?
+- You've managed to distill complex AI concepts on YouTube for a wide audience. What's your process for breaking down intricate subjects like LLama and Stable Diffusion, and what is your approach to learn about new knowledge in science and technology to fully absorb them?
 - What's your process for making a video? Deciding on topics, preparation, recording, editing, publishing, etc.
 
 ### Wrap Up [Daniel] -- :50 - 1:00
