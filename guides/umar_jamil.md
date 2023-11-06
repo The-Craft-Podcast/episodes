@@ -93,28 +93,28 @@ Find your local number: <https://us06web.zoom.us/u/kdpaeuYHjX>
 
 ## Draft Pre-Show Social Media Posts
 
-### Twitter
+### Pre-Show Twitter
 
-🚀 Excited to sit down with Umar Jamil (@hkproj) for an upcoming episode of The Craft podcast! We'll explore his journey from teenage coding prodigy to AI YouTube educator. Get ready for some deep insights on mastering technology. 🧠 Episode drops Nov 8th. #TechPodcast #AI #Innovations 
+🚀 Excited to sit down with Umar Jamil (@hkproj) for an upcoming episode of The Craft podcast! We'll explore his journey from teenage coding prodigy to AI YouTube educator. Get ready for some deep insights on mastering technology. 🧠 Episode drops Nov 8th. #TechPodcast #AI #Innovations
 
 🔜 <https://www.youtube.com/@thecraftpodcast>
 
-### LinkedIn
+### Pre-Show LinkedIn
 
 Looking forward to interviewing Umar Jamil, a trailblazer in AI and machine learning, for The Craft podcast. We will be discussing his remarkable path from a young software developer to becoming an influential voice in AI education. Join us on Nov 8th for a deep dive into his personal and professional growth in the tech world.
 
 📆 Save the date: Nov 8th
 🎙️ Anticipate the conversation: <https://www.youtube.com/@thecraftpodcast>
 
-#TheCraftPodcast #MachineLearning #TechEducation #FutureOfAI #Leadership
+Tags:  #TheCraftPodcast #MachineLearning #TechEducation #FutureOfAI #Leadership
 
 ## Draft Post-Show Social Media Posts
 
-### Twitter
+### Post-Show Twitter
 
 {TWITTER_POST_SHOW_DRAFT}
 
-### LinkedIn
+### Post-Show LinkedIn
 
 {LINKEDIN_POST_SHOW_DRAFT}
 
