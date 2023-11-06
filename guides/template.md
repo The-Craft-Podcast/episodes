@@ -1,9 +1,13 @@
 ---
 title: {VIDEO_TITLE}
-youtube-link: {YOUTUBE_URL}
+youtube-url: {YOUTUBE_URL}
 interviewee: {FULL_NAME}
 interview-date: {DATE}
 status: planned
+linkedin-pre-show-url: {LINKEDIN_PRE_SHOW_URL}
+linkedin-post-show-url: {LINKEDIN_POST_SHOW_URL}
+twitter-pre-show-url: {TWITTER_PRE_SHOW_URL}
+twitter-post-show-url: {TWITTER_POST_SHOW_URL}
 ---
 
 These notes are to guide the conversation. We’ll focus on these topic areas and prioritize the _italicized questions_, but we won’t ask each question like a Q&A. We’ll have a human conversation and skip or go deep based on (1) our own curiosity, (2) whatever you would like to share, and (3) our time limitations.
@@ -18,9 +22,15 @@ These notes are to guide the conversation. We’ll focus on these topic areas an
 
 ### Topic 1 -- :05 - :20
 
+{TOPIC_1_QUESTIONS}
+
 ### Topic 2 -- :20 - :35
 
+{TOPIC_2_QUESTIONS}
+
 ### Topic 3 -- :35 - :50
+
+{TOPIC_3_QUESTIONS}
 
 ### Wrap Up -- :50 - 1:00
 
@@ -30,14 +40,32 @@ Our guest today has been {FULL_NAME}. {FIRST_NAME}, thanks for being part of The
 
 ## Thumbnail for YouTube
 
-![INSERT IMAGE HERE](./thumbnails/{FULL_NAME_UNDERSCORE}.jpg)
+![{FULL_NAME} Thumbnail](./thumbnails/{FULL_NAME_UNDERSCORES}.jpg)
 
 ## Meeting Logistics
 
-## Draft Social Media Posts
+{MEETING_LOGISTICS}
+
+## Draft Pre-Show Social Media Posts
 
 ### Twitter
 
+{TWITTER_PRE_SHOW_DRAFT}
+
 ### LinkedIn
 
+{LINKEDIN_PRE_SHOW_DRAFT}
+
+## Draft Post-Show Social Media Posts
+
+### Twitter
+
+{TWITTER_POST_SHOW_DRAFT}
+
+### LinkedIn
+
+{LINKEDIN_POST_SHOW_DRAFT}
+
 ## Background
+
+{INTERVIEWEE_BACKGROUND_MATERIALS}
